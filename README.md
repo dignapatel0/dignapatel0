@@ -1,16 +1,14 @@
-## Hi there 👋
+![Header Image](/images/header.png)
 
-<!--
-**dignapatel0/dignapatel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
+- 🔭 I’m currently a student.
+- 🌱 I’m currently learning Web Development at Humber College.
+- 🤔 I’m looking for help with entry level jobs in Front-end Development.
+- 🎓 Bachelor’s Degree: Computer Engineering
+- 🎓 Post Graduate Certificate: Web Development
+- ⚡ Fun fact: I Love to Cook for my special one.
+- 😄 Pronouns: She/Her
 
-Here are some ideas to get you started:
+### Connect with me:
+[![Linkedin](/images/linkedin.png)](https://www.linkedin.com/in/digna-patel-20b017168/)                 [![Stackoverflow](/images/stack.png)](https://stackoverflow.com/users/27268776/digna-patel)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
