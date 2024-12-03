@@ -1,4 +1,4 @@
-![Header Image](/images/header_pic.png)
+![Header Image](/images/ban.jpg)
 
 ### About me:
 - 🔭 I’m currently a student.
